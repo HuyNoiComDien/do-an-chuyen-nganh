@@ -9,11 +9,7 @@
 <body>
     <!-- Left Panel -->
     <?php include 'layouts/leftpanel.php' ?>
-   <!-- /#left-panel -->
-
-    <!-- Left Panel -->
-
-    <!-- Right Panel -->
+  
 
     <div id="right-panel" class="right-panel">
 
